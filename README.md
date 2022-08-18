@@ -1,4 +1,4 @@
-👋 Hi, I’m Bruce Liu, currently a Master's student at University of Chicago studying Analytics. I'm interested in data science and hope to work in financial/technology sectors
+👋 Hi, I’m Bruce Liu, currently a Master's student at University of Chicago studying Analytics/Data Science. I'm interested in data science and hope to work in financial/technology sectors
 in the near future.
 
 
